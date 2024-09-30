@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1oridevs
 - 👀 I’m interested in making the world a better place
-- 🌱 I’m currently learning C# and C
+- 🌱 I’m currently learning java
 - 📫 How to reach me: oridevs.offical@gmail.com
 
 <!---
