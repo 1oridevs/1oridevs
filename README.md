@@ -1,7 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m @1oridevs  
-👀 I’m interested in making the world a better place  
-🌱 I’m currently learning Java  
 📫 How to reach me: oridevs.offical@gmail.com
 
 ## 🌐 Socials:
